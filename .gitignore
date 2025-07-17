@@ -9,3 +9,4 @@ dist
 doc/build
 examples/pink
 htmlcov
+pink_ik_env/
